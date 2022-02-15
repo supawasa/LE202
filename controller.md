@@ -32,14 +32,17 @@ ___________________________________________________________________________
 
 port : 23 General Purpose Input/Output pins are multiplexed with PWM, SPI and UART functions.
 ______________________________________________________________________________
-##
-ราคา
+## STM8S-DISCOVERY
+ราคา 401.2
 
-ลิงค์
+ลิงค์ https://th.element14.com/stmicroelectronics/stm8s-discovery/s-w-st-link-discovery-kit/dp/1775251
 
-ความเร็ว
+ความเร็ว 16MHz
 
-หน่วยความจำ
+หน่วยความจำ 32 KB
 
-port : 
+port : 38 I/O ประเภทอินเตอร์เฟส คือ I2C, SPI, UART	
 
+มีความอ่อนไหวต่อความชื้น
+______________________________________________________________________________
+# 
