@@ -14,4 +14,6 @@ https://nodejs.org/en/download/
 3. ติดตั้ง python และ nodejs ซึ่งตอนที่ติดตั้ง python ต้องคลิก ที่ add python to PATH ด้วย
 4. รัน pip install -U platformio บน command prompt
 5. รัน cd iotset1/examples และ dir ตามลำดับ บน command prompt เพื่อเข้าไปโฟลเดอร์ iotset1
-6. ตรวจสอบ โฟลเดอร์ตัวอย่าง เช่น ถ้ารันตัวอย่างที่ 1 คือ cd iotset1/examples/ex01 และ pio run ตามลำดับ หรือ ถ้ารันตัวอย่างที่ 2 คือ cd iotset1/examples/ex03 และ pio run ตามลำดับ เป็นต้น
+6. ตรวจสอบ โฟลเดอร์ตัวอย่าง เช่น ถ้ารันตัวอย่างที่ 1 คือ cd iotset1/examples/ex01 และ pio run ตามลำดับ หรือ 
+
+ถ้ารันตัวอย่างที่ 2 คือ cd iotset1/examples/ex03 และ pio run ตามลำดับ เป็นต้น
