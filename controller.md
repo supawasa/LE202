@@ -33,11 +33,11 @@ ___________________________________________________________________________
 port : 23 General Purpose Input/Output pins are multiplexed with PWM, SPI and UART functions.
 ______________________________________________________________________________
 ## STM8S-DISCOVERY
-ราคา 401.2
+ราคา 401.2 บาท
 
 ลิงค์ https://th.element14.com/stmicroelectronics/stm8s-discovery/s-w-st-link-discovery-kit/dp/1775251
 
-ความเร็ว 16MHz
+ความเร็ว 16 MHz
 
 หน่วยความจำ 32 KB
 
@@ -45,4 +45,13 @@ port : 38 I/O ประเภทอินเตอร์เฟส คือ I2C,
 
 มีความอ่อนไหวต่อความชื้น
 ______________________________________________________________________________
-# 
+# GD32 RISC-V 
+ราคา 600 บาท
+
+ลิงค์ https://www.gigadevice.com/products/microcontrollers/gd32/risc-v/
+
+ความเร็ว 108 MHz
+
+หน่วยความจำชิพขนาด 128 KB และหน่วยความจำ SRAM ขนาด 32 KB
+
+port : 2 APB buses	
